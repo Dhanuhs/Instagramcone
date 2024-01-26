@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531662378761",
+    "project_id": "instafeed-1e278",
+    "storage_bucket": "instafeed-1e278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531662378761:android:29558c2fbef907372ca5d8",
+        "android_client_info": {
+          "package_name": "com.example.instagram_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83PkYYNCQ22wBUGE0qKytaDiaUc6Tx6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
